@@ -1,12 +1,12 @@
-# Hi there, I'm Anar Valizada 👋
+## Hi there, I'm Anar Valizada 👋
 
-### Data Engineer | Data Pipelines & Cloud Solutions
+**Data Engineer | Data Pipelines & Cloud Solutions**
 
 I specialize in building efficient data ingestion pipelines, designing robust ETL/ELT workflows, and architecting scalable data infrastructures. I am passionate about engineering clean data solutions and continuously expanding my expertise in the evolving data landscape.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+**🛠️ Tech Stack & Tools**
 
 - **Languages:** `Python` `SQL`
 - **Data & Orchestration:** `Apache Airflow` `PostgreSQL`
@@ -15,14 +15,7 @@ I specialize in building efficient data ingestion pipelines, designing robust ET
 
 ---
 
-### 🎯 Current Focus
-
-- 📖 Currently preparing for the Microsoft DP-700 (Data Engineering on Microsoft Fabric) certification.
-- ⚡ Deep-diving into Big Data processing, performance optimization, and scalable cloud architectures.
-
----
-
-### 🤝 For Contact
+**🤝 For Contact**
 
 - 💼 LinkedIn: www.linkedin.com/in/anar-valizada
 - 📧 E-mail: anar.valizada01@gmail.com
