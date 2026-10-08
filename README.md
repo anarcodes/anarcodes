@@ -6,15 +6,6 @@ I specialize in building efficient data ingestion pipelines, designing robust ET
 
 ---
 
-**🛠️ Tech Stack & Tools**
-
-- **Languages:** `Python` `SQL`
-- **Data & Orchestration:** `Apache Airflow` `PostgreSQL`
-- **DevOps & Version Control:** `Docker` `Git`
-- **Cloud & Analytics:** `Microsoft Fabric`
-
----
-
 **🤝 For Contact**
 
 - 💼 LinkedIn: www.linkedin.com/in/anar-valizada
